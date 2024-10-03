@@ -3,3 +3,4 @@ cd .\"folder name"
 git add "file name"
 git commit -m"cmt"
 git push ok
+git add . // add all files using this command
