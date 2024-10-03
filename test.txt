@@ -1,0 +1,5 @@
+git clone "link from add"
+cd .\"folder name"
+git add "file name"
+git commit -m"cmt"
+git push ok
